@@ -55,3 +55,10 @@
   font-family: Impact, 'Arial Narrow Bold', sans-serif;
   border-bottom: 1px solid #222;
 }
+
+.container li {
+  color: rgb(4, 4, 27);
+  display: flex;
+  text-decoration: none;
+  text-align:start;
+}
